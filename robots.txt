@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juega-online-facil.com/sitemap.xml
